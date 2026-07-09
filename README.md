@@ -11,23 +11,25 @@
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### 🧠 About Me
+<h3>🧠 About Me</h3>
 
-I'm **Jonathan Mangiring** (*Nathann*), a Data Science & AI enthusiast who enjoys turning messy data into clear insight. I like exploring datasets, building models, and understanding *why* the numbers say what they say - not just *what* they say.
+<p>I'm <b>Jonathan Mangiring</b> (<i>Nathann</i>), a Data Science & AI enthusiast who enjoys turning messy data into clear insight. I like exploring datasets, building models, and understanding <i>why</i> the numbers say what they say — not just <i>what</i> they say.</p>
 
-- 🔭 Currently working on **Social Network Analysis (SNA) & Aspect-Based Sentiment Analysis (ABSA)** on e-commerce reviews
-- 📈 Also diving into **quantitative factor research** - momentum & low-volatility strategies on the S&P 500
-- 💬 Ask me about **Python, NLP, network analysis, or quant finance**
-- ⚡ Fun fact: I think a clean dataset is more satisfying than a clean desk
+<ul>
+  <li>🔭 Currently working on <b>Social Network Analysis (SNA) & Aspect-Based Sentiment Analysis (ABSA)</b> on e-commerce reviews</li>
+  <li>📈 Also diving into <b>quantitative factor research</b> — momentum & low-volatility strategies on the S&P 500</li>
+  <li>💬 Ask me about <b>Python, NLP, network analysis, or quant finance</b></li>
+  <li>⚡ Fun fact: I think a clean dataset is more satisfying than a clean desk</li>
+</ul>
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/JonathanMangiring/JonathanMangiring/main/assets/wave.gif" width="0" height="0"/>
+<img src="https://raw.githubusercontent.com/JonathanMangiring/JonathanMangiring/main/assets/wave.gif" width="120" alt="Waving Hand" style="margin-bottom: 10px;"/>
 
-```python
+<pre lang="python">
 class DataScientist:
     def __init__(self):
         self.name = "Jonathan Mangiring"
@@ -37,7 +39,7 @@ class DataScientist:
 
     def solve(self, problem):
         return "insight, not just answers"
-```
+</pre>
 
 </td>
 </tr>
