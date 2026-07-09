@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="130" viewBox="0 0 380 130" fill="none">
+  <!-- Card Background -->
+  <rect width="380" height="130" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  
+  <!-- Left Accent Bar -->
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H12V130H10C4.47715 130 0 125.523 0 120V10Z" fill="#f78166"/>
+  
+  <!-- Repo Icon -->
+  <g transform="translate(25, 20)">
+    <path d="M4 9H3V8H4V9ZM4 7H3V6H4V7ZM4 5H3V4H4V5ZM11 5H6V4H11V5ZM11 7H6V6H11V7ZM11 9H6V8H11V9ZM2 0C0.9 0 0 0.9 0 2V14C0 15.1 0.9 16 2 16H14C15.1 16 16 15.1 16 14V2C16 0.9 15.1 0 14 0H2ZM14 14H2V2H14V14Z" fill="#8b949e"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="50" y="32" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">sp500-factor-research</text>
+  
+  <!-- Description -->
+  <text x="25" y="60" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" line-height="16">
+    <tspan x="25" dy="0">Cross-sectional momentum &amp; low-volatility factor</tspan>
+    <tspan x="25" dy="16">research on S&amp;P 500 stocks (2015-2026).</tspan>
+  </text>
+  
+  <!-- Tech Stack Badges -->
+  <g transform="translate(25, 95)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
+    <!-- Python -->
+    <rect width="50" height="18" rx="9" fill="#1f6feb" opacity="0.15"/>
+    <rect width="50" height="18" rx="9" stroke="#1f6feb" stroke-width="0.8" opacity="0.3"/>
+    <text x="25" y="12" fill="#58a6ff" text-anchor="middle" font-weight="500">Python</text>
+    
+    <!-- Pandas -->
+    <g transform="translate(56, 0)">
+      <rect width="50" height="18" rx="9" fill="#3fb950" opacity="0.15"/>
+      <rect width="50" height="18" rx="9" stroke="#3fb950" stroke-width="0.8" opacity="0.3"/>
+      <text x="25" y="12" fill="#3fb950" text-anchor="middle" font-weight="500">Pandas</text>
+    </g>
+    
+    <!-- Quant -->
+    <g transform="translate(112, 0)">
+      <rect width="55" height="18" rx="9" fill="#db6d28" opacity="0.15"/>
+      <rect width="55" height="18" rx="9" stroke="#db6d28" stroke-width="0.8" opacity="0.3"/>
+      <text x="27.5" y="12" fill="#f0883e" text-anchor="middle" font-weight="500">Finance</text>
+    </g>
+  </g>
+</svg>

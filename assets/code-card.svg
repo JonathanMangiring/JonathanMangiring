@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="250" viewBox="0 0 450 250" fill="none">
+  <!-- Card Background -->
+  <rect width="450" height="250" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  
+  <!-- Title Bar -->
+  <path d="M0 12C0 5.37258 5.37258 0 12 0H438C444.627 0 450 5.37258 450 12V35H0V12Z" fill="#161b22"/>
+  
+  <!-- Window Controls -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#27c93f"/>
+  
+  <!-- Title -->
+  <text x="225" y="22" fill="#8b949e" font-family="'Fira Code', monospace" font-size="13" text-anchor="middle">developer.py</text>
+  
+  <!-- Code Content -->
+  <g font-family="'Fira Code', Consolas, monospace" font-size="13" line-height="20">
+    <!-- Line 1: class DataScientist: -->
+    <text x="20" y="70">
+      <tspan fill="#ff7b72">class</tspan>
+      <tspan fill="#d2a8ff"> DataScientist</tspan>
+      <tspan fill="#e1e4e8">:</tspan>
+    </text>
+    
+    <!-- Line 2:     def __init__(self): -->
+    <text x="20" y="92">
+      <tspan fill="#e1e4e8">    </tspan>
+      <tspan fill="#ff7b72">def</tspan>
+      <tspan fill="#d2a8ff"> __init__</tspan>
+      <tspan fill="#e1e4e8">(self):</tspan>
+    </text>
+    
+    <!-- Line 3:         self.name = "Jonathan Mangiring" -->
+    <text x="20" y="114">
+      <tspan fill="#e1e4e8">        self.name = </tspan>
+      <tspan fill="#a5d6ff">"Jonathan Mangiring"</tspan>
+    </text>
+    
+    <!-- Line 4:         self.role = "Data & AI Explorer" -->
+    <text x="20" y="136">
+      <tspan fill="#e1e4e8">        self.role = </tspan>
+      <tspan fill="#a5d6ff">"Data &amp; AI Explorer"</tspan>
+    </text>
+    
+    <!-- Line 5:         self.stack = ["Python", "SQL", "ML"] -->
+    <text x="20" y="158">
+      <tspan fill="#e1e4e8">        self.stack = [</tspan>
+      <tspan fill="#a5d6ff">"Python"</tspan>
+      <tspan fill="#e1e4e8">, </tspan>
+      <tspan fill="#a5d6ff">"SQL"</tspan>
+      <tspan fill="#e1e4e8">, </tspan>
+      <tspan fill="#a5d6ff">"ML"</tspan>
+      <tspan fill="#e1e4e8">]</tspan>
+    </text>
+    
+    <!-- Line 6:         self.mindset = "curious" -->
+    <text x="20" y="180">
+      <tspan fill="#e1e4e8">        self.mindset = </tspan>
+      <tspan fill="#a5d6ff">"curious"</tspan>
+    </text>
+    
+    <!-- Line 7:     def solve(self, problem): -->
+    <text x="20" y="202">
+      <tspan fill="#e1e4e8">    </tspan>
+      <tspan fill="#ff7b72">def</tspan>
+      <tspan fill="#d2a8ff"> solve</tspan>
+      <tspan fill="#e1e4e8">(self, problem):</tspan>
+    </text>
+    
+    <!-- Line 8:         return "insight, not just answers" -->
+    <text x="20" y="224">
+      <tspan fill="#e1e4e8">        </tspan>
+      <tspan fill="#ff7b72">return</tspan>
+      <tspan fill="#a5d6ff"> "insight, not just answers"</tspan>
+    </text>
+  </g>
+</svg>
