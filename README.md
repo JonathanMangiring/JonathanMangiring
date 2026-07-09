@@ -15,10 +15,10 @@
 
 ### 🧠 About Me
 
-I'm **Jonathan Mangiring** (*Nathann*), a Data Science & AI enthusiast who enjoys turning messy data into clear insight. I like exploring datasets, building models, and understanding *why* the numbers say what they say — not just *what* they say.
+I'm **Jonathan Mangiring** (*Nathann*), a Data Science & AI enthusiast who enjoys turning messy data into clear insight. I like exploring datasets, building models, and understanding *why* the numbers say what they say - not just *what* they say.
 
 - 🔭 Currently working on **Social Network Analysis (SNA) & Aspect-Based Sentiment Analysis (ABSA)** on e-commerce reviews
-- 📈 Also diving into **quantitative factor research** — momentum & low-volatility strategies on the S&P 500
+- 📈 Also diving into **quantitative factor research** - momentum & low-volatility strategies on the S&P 500
 - 💬 Ask me about **Python, NLP, network analysis, or quant finance**
 - ⚡ Fun fact: I think a clean dataset is more satisfying than a clean desk
 
@@ -77,8 +77,8 @@ class DataScientist:
 
 </div>
 
-> 🕸️ **Aspect Co-occurrence Network** — analisis jaringan asosiasi aspek menggunakan Social Network Analysis (SNA) dan Aspect-Based Sentiment Analysis (ABSA) pada ulasan produk Tokopedia.
-> 📈 **S&P 500 Factor Research** — riset cross-sectional momentum & low-volatility factor pada S&P 500 (2015–2026), mencakup analisis Information Coefficient, portofolio quintile long-short, dan uji robustness antar sub-periode.
+> 🕸️ **Aspect Co-occurrence Network** - analisis jaringan asosiasi aspek menggunakan Social Network Analysis (SNA) dan Aspect-Based Sentiment Analysis (ABSA) pada ulasan produk Tokopedia.
+> 📈 **S&P 500 Factor Research** - riset cross-sectional momentum & low-volatility factor pada S&P 500 (2015–2026), mencakup analisis Information Coefficient, portofolio quintile long-short, dan uji robustness antar sub-periode.
 
 <br/>
 
@@ -116,5 +116,5 @@ class DataScientist:
 <br/>
 
 <div align="center">
-<sub>✨ Thanks for stopping by — feel free to explore my repositories!</sub>
+<sub>✨ Thanks for stopping by - feel free to explore my repositories!</sub>
 </div>
