@@ -1,16 +1,8 @@
 <div align="center">
 
-### Hi there, I'm Jonathan Mangiring 👋
-
-*Data Science & AI Enthusiast · Turning Data into Decisions*
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=333333&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Jonathan+%F0%9F%91%8B;Data+Science+%26+AI+Enthusiast;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
-
-
-<!-- About Me & Code Section -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="55%" valign="top" style="border: none;">
 
 ### 🧠 About Me
 
@@ -21,14 +13,9 @@ I'm **Jonathan Mangiring** (*Nathann*), a Data Science & AI enthusiast who enjoy
 * 💬 Ask me about **Python, NLP, network analysis, or quant finance**.
 * ⚡ Fun fact: I think a clean dataset is more satisfying than a clean desk.
 
-</td>
-<td width="45%" valign="top" align="center" style="border: none;">
-
-<img src="assets/code-card.svg" width="100%" alt="Data Scientist Code Block" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/code-card.svg" width="75%" alt="Data Scientist Code Block"/>
+</div>
 
 <br/>
 
