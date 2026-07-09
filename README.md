@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Typing intro -->
-<a href="https://github.com/JonathanMangiring">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Hi+there,+I'm+Jonathan+Mangiring+👋;Data+Science+&amp;+AI+Enthusiast;Turning+Data+into+Decisions;Always+Learning,+Always+Building" alt="Typing SVG" />
-</a>
+### Hi there, I'm Jonathan Mangiring 👋
+
+*Data Science & AI Enthusiast · Turning Data into Decisions*
 
 </div>
 
-<br/>
 
 <!-- About Me & Code Section -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
