@@ -15,11 +15,11 @@
 
 <h3>🧠 About Me</h3>
 
-<p>I'm <b>Jonathan Mangiring</b> (<i>Nathann</i>), a Data Science & AI enthusiast who enjoys turning messy data into clear insight. I like exploring datasets, building models, and understanding <i>why</i> the numbers say what they say — not just <i>what</i> they say.</p>
+<p>I'm <b>Jonathan Mangiring</b> (<i>Nathann</i>), a Data Science & AI enthusiast who enjoys turning messy data into clear insight. I like exploring datasets, building models, and understanding <i>why</i> the numbers say what they say - not just <i>what</i> they say.</p>
 
 <ul>
   <li>🔭 Currently working on <b>Social Network Analysis (SNA) & Aspect-Based Sentiment Analysis (ABSA)</b> on e-commerce reviews</li>
-  <li>📈 Also diving into <b>quantitative factor research</b> — momentum & low-volatility strategies on the S&P 500</li>
+  <li>📈 Also diving into <b>quantitative factor research</b> - momentum & low-volatility strategies on the S&P 500</li>
   <li>💬 Ask me about <b>Python, NLP, network analysis, or quant finance</b></li>
   <li>⚡ Fun fact: I think a clean dataset is more satisfying than a clean desk</li>
 </ul>
