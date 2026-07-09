@@ -14,7 +14,7 @@ I'm **Jonathan Mangiring** (*Nathann*), a Data Science & AI enthusiast who enjoy
 * ⚡ Fun fact: I think a clean dataset is more satisfying than a clean desk.
 
 <div align="center">
-<img src="assets/code-card.svg" width="75%" alt="Data Scientist Code Block"/>
+<img src="assets/code-card.svg" width="50%" alt="Data Scientist Code Block"/>
 </div>
 
 <br/>
