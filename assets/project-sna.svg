@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="130" viewBox="0 0 380 130" fill="none">
   <!-- Card Background -->
-  <rect width="380" height="130" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect width="380" height="130" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
   
   <!-- Left Accent Bar -->
   <path d="M0 10C0 4.47715 4.47715 0 10 0H12V130H10C4.47715 130 0 125.523 0 120V10Z" fill="#2E9EF7"/>
   
   <!-- Repo Icon -->
   <g transform="translate(25, 20)">
-    <path d="M4 9H3V8H4V9ZM4 7H3V6H4V7ZM4 5H3V4H4V5ZM11 5H6V4H11V5ZM11 7H6V6H11V7ZM11 9H6V8H11V9ZM2 0C0.9 0 0 0.9 0 2V14C0 15.1 0.9 16 2 16H14C15.1 16 16 15.1 16 14V2C16 0.9 15.1 0 14 0H2ZM14 14H2V2H14V14Z" fill="#8b949e"/>
+    <path d="M4 9H3V8H4V9ZM4 7H3V6H4V7ZM4 5H3V4H4V5ZM11 5H6V4H11V5ZM11 7H6V6H11V7ZM11 9H6V8H11V9ZM2 0C0.9 0 0 0.9 0 2V14C0 15.1 0.9 16 2 16H14C15.1 16 16 15.1 16 14V2C16 0.9 15.1 0 14 0H2ZM14 14H2V2H14V14Z" fill="#57606a"/>
   </g>
   
   <!-- Title -->
-  <text x="50" y="32" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">aspect-cooccurrence-network</text>
+  <text x="50" y="32" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">aspect-cooccurrence-network</text>
   
   <!-- Description -->
-  <text x="25" y="60" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" line-height="16">
+  <text x="25" y="60" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" line-height="16">
     <tspan x="25" dy="0">Social Network Analysis (SNA) &amp; Aspect-Based</tspan>
     <tspan x="25" dy="16">Sentiment Analysis on e-commerce reviews.</tspan>
   </text>
@@ -22,22 +22,22 @@
   <!-- Tech Stack Badges -->
   <g transform="translate(25, 95)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10">
     <!-- Python -->
-    <rect width="50" height="18" rx="9" fill="#1f6feb" opacity="0.15"/>
-    <rect width="50" height="18" rx="9" stroke="#1f6feb" stroke-width="0.8" opacity="0.3"/>
-    <text x="25" y="12" fill="#58a6ff" text-anchor="middle" font-weight="500">Python</text>
+    <rect width="50" height="18" rx="9" fill="#ddf4ff"/>
+    <rect width="50" height="18" rx="9" stroke="#0969da" stroke-width="0.8" opacity="0.3"/>
+    <text x="25" y="12" fill="#0969da" text-anchor="middle" font-weight="600">Python</text>
     
     <!-- NetworkX -->
     <g transform="translate(56, 0)">
-      <rect width="60" height="18" rx="9" fill="#238636" opacity="0.15"/>
-      <rect width="60" height="18" rx="9" stroke="#238636" stroke-width="0.8" opacity="0.3"/>
-      <text x="30" y="12" fill="#3fb950" text-anchor="middle" font-weight="500">NetworkX</text>
+      <rect width="60" height="18" rx="9" fill="#dafbe1"/>
+      <rect width="60" height="18" rx="9" stroke="#1a7f37" stroke-width="0.8" opacity="0.3"/>
+      <text x="30" y="12" fill="#1a7f37" text-anchor="middle" font-weight="600">NetworkX</text>
     </g>
     
     <!-- NLP / ABSA -->
     <g transform="translate(122, 0)">
-      <rect width="45" height="18" rx="9" fill="#8957e5" opacity="0.15"/>
-      <rect width="45" height="18" rx="9" stroke="#8957e5" stroke-width="0.8" opacity="0.3"/>
-      <text x="22.5" y="12" fill="#a371f7" text-anchor="middle" font-weight="500">ABSA</text>
+      <rect width="45" height="18" rx="9" fill="#fbe8ff"/>
+      <rect width="45" height="18" rx="9" stroke="#8250df" stroke-width="0.8" opacity="0.3"/>
+      <text x="22.5" y="12" fill="#8250df" text-anchor="middle" font-weight="600">ABSA</text>
     </g>
   </g>
 </svg>

@@ -91,7 +91,7 @@ I'm **Jonathan Mangiring** (*Nathann*), a Data Science & AI enthusiast who enjoy
   <a href="https://github.com/JonathanMangiring">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/jonathan-mangiring" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathannmangiring/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </div>
